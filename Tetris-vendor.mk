@@ -870,7 +870,7 @@ PRODUCT_PACKAGES += \
     libmmagent \
     libmml \
     libmmlpqImpl \
-    libmnl \
+    libmnl_mtk \
     libmorpho_RawDeepDenoise \
     libmorpho_video_stabilizer \
     libmtk_drvb \
@@ -1521,7 +1521,7 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libmmagent_so \
     vendor_lib64_libmml_so \
     vendor_lib64_libmmlpqImpl_so \
-    vendor_lib64_libmnl_so \
+    vendor_lib64_libmnl_mtk_so \
     vendor_lib64_libmorpho_RawDeepDenoise_so \
     vendor_lib64_libmorpho_video_stabilizer_so \
     vendor_lib64_libmtk_drvb_so \
