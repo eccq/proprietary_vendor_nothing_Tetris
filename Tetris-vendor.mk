@@ -345,6 +345,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     APUWareApusysAidlServer \
+    android.hardware.audio@7.1-util-v34 \
     libGLES_meow \
     libMEOW_data \
     libMEOW_gift \
