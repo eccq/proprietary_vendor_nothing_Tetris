@@ -21,4 +21,4 @@ owners.
 | [lufrz](https://github.com/lufrz) | LineageOS 24 vendor updates, audio and Bluetooth backends, stock LK |
 | [CMF-Phone-1](https://github.com/CMF-Phone-1) | Original vendor tree (`xylobium`) |
 | [Nothing archive](https://github.com/spike0en/nothing_archive) | Stock firmware archive |
-| chakra | DescartesOS port and maintenance |
+| [chakra](https://github.com/eccq) | DescartesOS port and maintenance |
