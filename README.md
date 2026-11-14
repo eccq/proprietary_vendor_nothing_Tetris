@@ -1,6 +1,6 @@
 # Proprietary vendor files for CMF Phone 1
 
-Proprietary blobs and firmware for the CMF Phone 1 (codenamed _"Tetris"_), used to
+Proprietary blobs and firmware for the CMF Phone 1 ("Tetris"), used to
 build DescartesOS (based on LineageOS 24 / Android 17).
 
 All files are from Nothing CMF Phone (1) stock firmware `Tetris_B4.1-260928-1140`,
